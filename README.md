@@ -6,7 +6,7 @@
 - 🌱 Currently Learning: Discord bots
 - 💡 Interests: Creative coding, automation, gaming
 - 🐧 OS: Windows, Arch Linux, EndeavourOS
-- 🎯 Goal: Become a developer and build useful tools
+- 🎯 Goal: Become a developer
 
 ---
 
