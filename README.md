@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Filoqcus, aspiring developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="13"/> <b>Ukraine</b></p>
+<p>Welcome to my page! </br> I'm NyrrCly, aspiring developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330540.png" width="13"/> <b>Ukraine</b></p>
 
 # Languages & Tools 👨‍💻 🛠:
 
