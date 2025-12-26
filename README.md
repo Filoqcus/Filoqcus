@@ -16,7 +16,7 @@
 # Studying thoroughly:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,sql,docker,c,cpp,rust" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,c,cpp,rust" />
   <br>
 </p>
 
