@@ -10,7 +10,14 @@
   <br>
   <img src="https://skillicons.dev/icons?i=linux,windows,arch" />
   <br>
-  <img src="https://skillicons.dev/icons?i=clion,webstorm" />
+  <img src="https://skillicons.dev/icons?i=webstorm" />
+</p>
+
+# Studying thoroughly:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,sql,docker,c,cpp,rust" />
+  <br>
 </p>
 
 # Contact Me :
