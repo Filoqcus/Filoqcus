@@ -22,20 +22,11 @@
 
 # Contact Me :
 
-<div align="center">
+<div align="left">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<br><br>
-
 <a href="https://discord.com/users/758316599508992081">
-  <img alt="Discord" width="130" height="130" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
+  <img alt="Discord" width="70" height="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
 </a>
-
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyrrCly&show_icons=true&theme=tokyonight" />
-</a>
-
 </div>
